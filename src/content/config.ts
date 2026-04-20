@@ -3,7 +3,7 @@ export const siteConfig = {
     name: "Chirwan Inc",
     phone: "+1 (514) 931-1931",
     whatsapp: "15149311931",
-    email: "contact@chirwaninc.com",
+    email: "autochirwan2021@gmail.com",
     address: "123 Main Street, Montreal, QC H1A 1A1",
     hours: "Lun–Ven: 8h–18h | Sam: 9h–16h | Dim: Fermé",
     founded: "2010",
